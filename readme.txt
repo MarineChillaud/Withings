@@ -12,4 +12,5 @@ MAJ
 - mise en erreur avec l'énoncé qui indiquait ne pas avoir besoin de prendre en charge les signatures. J'y ai perdu beaucoup de temps
 - mise en difficulté : je m'attendais à un test PHP sur du back, pas à de la gestion d'autorisation plutôt front
 - Comme c'est un exercice, j'ai choisi de tout mettre dans un seul fichier pour simplifier la lecture
-- avec plus de temps, ou de connaissance initiale du protocole OAuth, j'aurais aimé distinguer les fichiers et faire un front plus agréable
+- avec plus de temps, ou de connaissance initiale du protocole OAuth, j'aurais aimé distinguer les fichiers, et notamment mettre 
+les informations sensible dans un fichier gitignore, et faire un front plus agréable
