@@ -4,3 +4,6 @@
 - J'ai totalement paniqué et n'ai pas réussi à en sortir. 
 - Je vais prendre le reste de la journée, pour dépasser ce plantage magistral et réussir ce projet, pour moi
 à titre personnel quoiqu'il en soit, et vous le soumettrait pour avoir vos retours malgré tout. 
+- Dans le cas ou j'apréhende de nouvelles fonctionnalités, j'ai pour habitude de prendre du temps pour lire et comprendre la documentation, 
+de faire un tuto rapide pour prendre en main la techno/fonctionnalité avant de l'appliquer au projet sur lequel je travaille. Je vais donc 
+faire ça de ce pas, reprendre depuis le début, calmement et sans me mettre de pression.
