@@ -7,3 +7,7 @@
 - Dans le cas ou j'apréhende de nouvelles fonctionnalités, j'ai pour habitude de prendre du temps pour lire et comprendre la documentation, 
 de faire un tuto rapide pour prendre en main la techno/fonctionnalité avant de l'appliquer au projet sur lequel je travaille. Je vais donc 
 faire ça de ce pas, reprendre depuis le début, calmement et sans me mettre de pression.
+
+MAJ
+- mise en erreur avec l'énoncé qui indiquait ne pas avoir besoin de prendre en charge les signatures. J'y ai perdu beaucoup de temps
+- mise en difficulté : je m'attendais à un test PHP sur du back, pas à de la gestion d'autorisation plutôt front
